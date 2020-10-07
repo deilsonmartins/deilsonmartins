@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### 👨🏻‍💻 &nbsp;About Me
 
 🔭 &nbsp;I like to devote myself to software developments.\
-🎓 &nbsp;Studying Electrical engineering at Federal Center for Technological Education.
+🎓 &nbsp;Studying Electrical engineering at Federal Center for Technological Education (CEFET-RJ).
 
 ### 🛠 &nbsp;Tech Stack
 
