@@ -15,7 +15,7 @@ Node.js \
 HTML \
 CSS \
 Bootstrap \
-Git\ 
+Git \ 
 GitHub \
 Markdown \
 Visual Studio Code \ 
