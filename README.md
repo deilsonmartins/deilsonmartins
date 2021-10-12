@@ -3,7 +3,7 @@
 
 ### About Me
 
-- I like to devote myself to software developments.\
+- I like to devote myself to software developments.
 - Electrical engineer and software engineer.
 
 ### Tech Stack
