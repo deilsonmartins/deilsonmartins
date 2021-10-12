@@ -16,9 +16,6 @@
 - CSS 
 - Bootstrap 
 - Git 
-- GitHub 
-- Markdown 
-- Visual Studio Code 
 
 
 ---
