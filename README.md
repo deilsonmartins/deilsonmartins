@@ -3,22 +3,22 @@
 
 ### About Me
 
-🔭 &nbsp;I like to devote myself to software developments.\
-🎓 &nbsp;Electrical engineer and software engineer.
+- I like to devote myself to software developments.\
+- Electrical engineer and software engineer.
 
 ### Tech Stack
-C++
-Python
-JavaScript
-React;
-Node.js
-HTML
-CSS
-Bootstrap
-Git
-GitHub
-Markdown
-Visual Studio Code
+C++ \
+Python \
+JavaScript \
+React \
+Node.js \
+HTML \
+CSS \
+Bootstrap \
+Git\ 
+GitHub \
+Markdown \
+Visual Studio Code \ 
 
 
 ---
