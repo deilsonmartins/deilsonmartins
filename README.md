@@ -7,18 +7,18 @@
 - Electrical engineer and software engineer.
 
 ### Tech Stack
-- C++ \
-- Python \
-- JavaScript \
-- React \
-- Node.js \
-- HTML \
-- CSS \
-- Bootstrap \
-- Git \ 
-- GitHub \
-- Markdown \
-- Visual Studio Code \ 
+- C++ 
+- Python 
+- JavaScript 
+- React 
+- Node.js 
+- HTML 
+- CSS 
+- Bootstrap 
+- Git 
+- GitHub 
+- Markdown 
+- Visual Studio Code 
 
 
 ---
