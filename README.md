@@ -7,7 +7,7 @@
 - Electrical engineer and software engineer.
 
 ### Tech Stack
-C++ \
+* C++ \
 Python \
 JavaScript \
 React \
