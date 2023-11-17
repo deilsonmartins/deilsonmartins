@@ -12,6 +12,8 @@ E-mail: deilsonmartinssantos@gmail.com
 
 GitHub: @deilsonmartins
 
+Linkedin: https://www.linkedin.com/in/deilson-martins/
+
 Lattes: http://lattes.cnpq.br/9789027739287598
 
 ### Tech Stack
